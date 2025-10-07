@@ -154,9 +154,6 @@
         <mxCell id="x3ObjkOd4FbKlMlAvdoj-80" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;BUZZER&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1720" y="-80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x3ObjkOd4FbKlMlAvdoj-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="-90" width="300" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="x3ObjkOd4FbKlMlAvdoj-83" value="RGB" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="1610" y="130" width="140" height="180" as="geometry" />
         </mxCell>
