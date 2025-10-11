@@ -1,0 +1,29 @@
+{
+  "name": "smart-classroom-",
+  "version": "1.0.0",
+  "main": "./server/server.js",
+  "scripts": {
+    "dev": "nodemon ./server/server.js",
+    "start": "node ./server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-Arce/Smart-Classroom.git"
+  },
+  "keywords": [],
+  "author": "Andres Arce, Diego Moran, Alvaro Vazquez, Beatriz Rosiles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andres-Arce/Smart-Classroom/issues"
+  },
+  "homepage": "https://github.com/Andres-Arce/Smart-Classroom#readme",
+  "description": "It's a project for automatic assistancy with RFID, by university of colima",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "express": "^5.1.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
