@@ -1,4 +1,20 @@
-- Fix responsive the notification
-- Add the work it, excel. Librery: npm i exceljs
+-  FRONTEND
+- Fix responsive the notification.
+- Add the work it, excel. Librery: npm i exceljs , (It's necessary first make the code of RFID).
+
+
+-  BACKEND
+- Add the librery WS and the logic (After of IOT)
+
+
+- IOT
+- Create the file for connection of esp32 with rfid for send information of student (First this)
+
+
+Instruccions:
+
+- For it running the app as developer, In the console you must "npm run dev", With that isn't neccesary update all time, just you must
+save the file with "CTRL + S".
+
 
  

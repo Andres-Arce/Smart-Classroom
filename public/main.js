@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   /*
-    Andy: I create the function called thread, The code async ensure read all code
+    Andy: I created the function called thread, The code async ensure read all code
     and then waiting other functions for execute the same time.
   */
 
